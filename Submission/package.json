@@ -12,10 +12,11 @@
   "dependencies": {
     "@radix-ui/react-dropdown-menu": "^2.1.4",
     "lucide-react": "^0.469.0",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-image-crop": "^11.0.7",
-    "react-masonry-component": "^6.3.0"
+    "react-masonry-component": "^6.3.0",
+    "react-responsive-masonry": "^2.6.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",
@@ -28,7 +29,9 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
+    "patch-package": "^8.0.0",
     "postcss": "^8.4.49",
+    "postinstall-postinstall": "^2.1.0",
     "tailwindcss": "^3.4.17",
     "vite": "^6.0.5"
   }
